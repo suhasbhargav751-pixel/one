@@ -1,1 +1,3 @@
 this file fixes the bug . 
+
+fixed the third bug . 
