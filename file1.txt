@@ -3,3 +3,5 @@ content added to first file
 second content added to file1
 
 line 5 was added . 
+
+line 7 was added . 
