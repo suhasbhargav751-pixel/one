@@ -1,3 +1,5 @@
 this is the second file  
 this is the second line of second file 
 yo im at line 3 in file2 
+
+work done after commit -m"purplemode was added" 
